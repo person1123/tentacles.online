@@ -179,10 +179,10 @@ function draw() {
   noFill();
   stroke(100, 100, 100);
   strokeWeight(10);
-  line(SIZE / 4.0, SIZE / 4.0, 3 * SIZE / 4.0, SIZE / 4.0);
+ /* line(SIZE / 4.0, SIZE / 4.0, 3 * SIZE / 4.0, SIZE / 4.0);
   line(SIZE / 4.0, SIZE / 4.0, SIZE / 4.0, 3 * SIZE / 4.0);
   line(SIZE / 4.0, 3 * SIZE / 4.0, 3 * SIZE / 4.0, 3 * SIZE / 4.0);
-  line(3 * SIZE / 4.0, SIZE / 4.0, 3 * SIZE / 4.0, 3 * SIZE / 4.0);
+  line(3 * SIZE / 4.0, SIZE / 4.0, 3 * SIZE / 4.0, 3 * SIZE / 4.0); */
   
   line(SIZE / 4.0, SIZE / 4.0 + SIZE / 6.0, 3 * SIZE / 4.0, SIZE / 4.0 + SIZE / 6.0);
   line(SIZE / 4.0, SIZE / 4.0 + 2 * SIZE / 6.0, 3 * SIZE / 4.0, SIZE / 4.0 + 2 * SIZE / 6.0);
